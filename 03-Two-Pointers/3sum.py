@@ -1,3 +1,14 @@
+"""
+15. 3Sum  (Medium)
+https://leetcode.com/problems/3sum/
+
+Approach: sort + fix one number, then two pointers on the rest.
+Skip duplicates for both the fixed number and the pointers.
+
+Time:  O(n^2)
+Space: O(1) excluding output
+"""
+
 def threesum(self,nums):
     nums.sort()
     res=[]
