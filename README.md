@@ -8,10 +8,10 @@ with complexity analysis for each.
 | Topic | Solved | Total |
 |-------|--------|-------|
 | Arrays & Hashing | 0 | 9 |
-| Two Pointers | 1 | 5 |
+| Two Pointers | 2 | 5 |
 | ... | | |
 
-**Total: 1 / 150**
+**Total: 2 / 150**
 
 ## Structure
 01-Arrays/ · 02-Strings/ · 03-Two-Pointers/ · ...
