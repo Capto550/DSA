@@ -10,7 +10,7 @@ with complexity analysis for each.
 | Two Pointers | 8|
 
 
-**Total: 7 / 150**
+**Total: 8 / 150**
 
 ## Structure
 01-Arrays/ · 02-Strings/ · 03-Two-Pointers/ · ...
