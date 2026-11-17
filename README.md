@@ -7,7 +7,7 @@ with complexity analysis for each.
 ## Progress
 | Topic | Solved |
 |-------|--------|
-| Two Pointers | 7|
+| Two Pointers | 8|
 
 
 **Total: 7 / 150**
