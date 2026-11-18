@@ -8,6 +8,7 @@ with complexity analysis for each.
 | Topic | Solved |
 |-------|--------|
 | Two Pointers | 8|
+| Sliding Window| 1|
 
 
 **Total: 8 / 150**
