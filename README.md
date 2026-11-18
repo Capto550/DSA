@@ -11,7 +11,7 @@ with complexity analysis for each.
 | Sliding Window| 1|
 
 
-**Total: 8 / 150**
+**Total: 9 / 150**
 
 ## Structure
 01-Arrays/ · 02-Strings/ · 03-Two-Pointers/ · ...
