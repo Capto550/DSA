@@ -9,17 +9,13 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        l=0
-        longest=0
-        sett=set()
-        n=len(s)
-
-        for r in range(n):
-            while s[r] in sett:
-                sett.remove(s[l])
-                l+=1
-            w=(r-l)+1
-            longest=max(longest,w)
-            sett.add(s[r])
-
-        return longest
+        left=0
+        seen=set()
+        maxi=0
+        for right in range(len(s)):
+            while s[right] in seen:
+                seen.remove(s[left])
+                left+=1
+            seen.add(s[right])
+            maxi=max(maxi,right-left+1)
+        return maxi
